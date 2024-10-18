@@ -1,0 +1,4 @@
+kaggle.json
+__pycache__/
+*.h5
+.ipynb_checkpoints/
