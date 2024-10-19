@@ -1,8 +1,10 @@
 # cnn-cat-vs-dog-classifier
-This project uses a convolutional neural network (CNN) with the EfficientNetB0 architecture to classify images of cats and dogs. The model is trained on the Dogs vs Cats dataset from Kaggle, and data augmentation techniques are applied to enhance performance and improve robustness.
+This project uses a convolutional neural network (CNN) with the EfficientNetB0 architecture to classify images of cats and dogs. The model is trained on the Dogs vs Cats dataset from Kaggle, and data augmentation techniques are applied to enhance performance and improve robustness. test accuracy and accuracy: (0.9904000163078308, 0.030025295913219452)
 
-The data used for this project:
+Test accuracy obtained: 99.04%
+Test loss obtained: 0.03
 
+## Dataset used:
 https://www.kaggle.com/datasets/salader/dogs-vs-cats/data
 
 ## How to Set Up Kaggle API
