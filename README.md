@@ -17,3 +17,7 @@ https://www.kaggle.com/datasets/salader/dogs-vs-cats/data
    !cp kaggle.json ~/.kaggle/
    !chmod 600 ~/.kaggle/kaggle.json
    `
+
+## Known Issues
+
+- In the final output of the test evaluation, the printed text currently reads "Test accuracy and accuracy" instead of "Test accuracy and loss". This is a minor typo and does not affect the model's performance or results.
